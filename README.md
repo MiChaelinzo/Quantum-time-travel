@@ -32,3 +32,8 @@ Key Points:
 
 This code demonstrates concepts of quantum circuits, qubits, superposition, entanglement, and measurement.
 The actual process of time travel is not achievable with current technology.
+
+![_29ffb313-39ed-4b2e-9b8b-e972aa17fbfa](https://github.com/MiChaelinzo/Quantum-time-travel/assets/68110223/15b2ffbc-37fc-4651-b280-eb186dc02229)
+
+
+![_7ba7d940-fdbf-4b73-b243-d7f39530cb92](https://github.com/MiChaelinzo/Quantum-time-travel/assets/68110223/62139a35-5333-43f4-bc69-94830bb644ff)
